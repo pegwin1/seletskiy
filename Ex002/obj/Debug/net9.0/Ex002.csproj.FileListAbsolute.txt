@@ -1,0 +1,15 @@
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\bin\Debug\net9.0\Ex002.exe
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\bin\Debug\net9.0\Ex002.deps.json
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\bin\Debug\net9.0\Ex002.runtimeconfig.json
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\bin\Debug\net9.0\Ex002.dll
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\bin\Debug\net9.0\Ex002.pdb
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.AssemblyInfoInputs.cache
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.AssemblyInfo.cs
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.csproj.CoreCompileInputs.cache
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.sourcelink.json
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.dll
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\refint\Ex002.dll
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.pdb
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\Ex002.genruntimeconfig.cache
+C:\Users\nsele\OneDrive\Desktop\seletskiy\pup\Ex002\obj\Debug\net9.0\ref\Ex002.dll
